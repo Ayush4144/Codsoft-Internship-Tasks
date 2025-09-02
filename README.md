@@ -38,4 +38,4 @@ The internship focused on applying core C++ concepts through practical tasks.
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/codsoft-cpp-internship.git
+   git clone https://github.com/Ayush4144/Codsoft-Internship-Tasks.git
